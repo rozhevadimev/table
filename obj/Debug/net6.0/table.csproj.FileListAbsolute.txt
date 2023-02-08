@@ -1,0 +1,15 @@
+D:\Source\Repos\rozhevadimev\geekBrainsCourse\table\bin\Debug\net6.0\table.exe
+D:\Source\Repos\rozhevadimev\geekBrainsCourse\table\bin\Debug\net6.0\table.deps.json
+D:\Source\Repos\rozhevadimev\geekBrainsCourse\table\bin\Debug\net6.0\table.runtimeconfig.json
+D:\Source\Repos\rozhevadimev\geekBrainsCourse\table\bin\Debug\net6.0\table.dll
+D:\Source\Repos\rozhevadimev\geekBrainsCourse\table\bin\Debug\net6.0\table.pdb
+D:\Source\Repos\rozhevadimev\geekBrainsCourse\table\obj\Debug\net6.0\table.csproj.AssemblyReference.cache
+D:\Source\Repos\rozhevadimev\geekBrainsCourse\table\obj\Debug\net6.0\table.GeneratedMSBuildEditorConfig.editorconfig
+D:\Source\Repos\rozhevadimev\geekBrainsCourse\table\obj\Debug\net6.0\table.AssemblyInfoInputs.cache
+D:\Source\Repos\rozhevadimev\geekBrainsCourse\table\obj\Debug\net6.0\table.AssemblyInfo.cs
+D:\Source\Repos\rozhevadimev\geekBrainsCourse\table\obj\Debug\net6.0\table.csproj.CoreCompileInputs.cache
+D:\Source\Repos\rozhevadimev\geekBrainsCourse\table\obj\Debug\net6.0\table.dll
+D:\Source\Repos\rozhevadimev\geekBrainsCourse\table\obj\Debug\net6.0\refint\table.dll
+D:\Source\Repos\rozhevadimev\geekBrainsCourse\table\obj\Debug\net6.0\table.pdb
+D:\Source\Repos\rozhevadimev\geekBrainsCourse\table\obj\Debug\net6.0\table.genruntimeconfig.cache
+D:\Source\Repos\rozhevadimev\geekBrainsCourse\table\obj\Debug\net6.0\ref\table.dll
